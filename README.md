@@ -7,13 +7,12 @@ Hello there! I spawned in this universe back in 2000 with a singular purpose: to
 
 ## 👨🏻‍💻 Experience
 
-- Junior Web Developer at Nunchi (04/2022 - 10/2023)
+- Junior Web Developer at [Nunchi](https://www.nunchicommunication.com)
 
 ## 👨🏻‍🎓 Education
 
-- MSc in Computer Science at University of Insubria
-- BSc in Computer Science at University of Insubria
-
+- MSc in Computer Science at [University of Insubria](https://www.uninsubria.it)
+- BSc in Computer Science at [University of Insubria](https://www.uninsubria.it)
 ## 🚀 Skills
 
 #### Languages
