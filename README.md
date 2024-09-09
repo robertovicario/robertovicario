@@ -7,7 +7,7 @@ Hello there! I spawned in this universe back in 2000 with a singular purpose: to
 
 ## 👨🏻‍💻 Experience
 
-- Research Assistant at [DiSTA Department of University of Insubria](https://www.uninsubria.it)
+- Research Assistant at [University of Insubria (DiSTA Department)](https://www.uninsubria.it)
 - Junior Web Developer at [Nunchi](https://www.nunchicommunication.com)
 
 ## 👨🏻‍🎓 Education
