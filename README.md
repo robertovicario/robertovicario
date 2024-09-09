@@ -5,23 +5,33 @@ Hello there! I spawned in this universe back in 2000 with a singular purpose: to
 | <a href="https://raw.githubusercontent.com/robertovicario/robertovicario/main/docs/Curriculum_Vitae_ITA.pdf" download>Download CV</a> |
 | -- |
 
-## Resume
+## 👨🏻‍💻 Experience
 
-I'm Java DevOps Engineer. Throughout my career, I've honed my skills across diverse domains including: Software Engineering, Data Management, Machine and Deep Learning, Web Development, and more. However, it's my proficiency in following skills which sets me apart in the job market.
+- Junior Web Developer at Nunchi (04/2022 - 10/2023)
 
-<img src="https://skillicons.dev/icons?i=java,spring,docker,kubernetes,gcp,terraform&theme=light" alt="Skills">
+## 👨🏻‍🎓 Education
 
-## Website
+- MSc in Computer Science at University of Insubria
+- BSc in Computer Science at University of Insubria
 
-<table>
-    <tr>
-        <td>
-            <a href="https://www.robertovicario.com" target="_blank">
-                <img src="https://raw.githubusercontent.com/robertovicario/robertovicario/main/img/1.png" alt="Website" width=256>
-            </a>
-        </td>
-    </tr>
-    <tr>
-        <td align="center"><a href="https://www.robertovicario.com" target="_blank">Visit Now</a></td>
-    </tr>
-</table>
+## 🚀 Skills
+
+#### Languages
+
+<img src="https://skillicons.dev/icons?i=java,c,cpp,python,js,bash&amp;theme=light" style="margin-top: 8px;margin-bottom: 8px;">
+
+#### Web Development
+
+<img src="https://skillicons.dev/icons?i=html,css,bootstrap,nodejs,react,wordpress&amp;theme=light" style="margin-top: 8px;margin-bottom: 8px;">
+
+#### DevOps and Cloud Computing
+
+<img src="https://skillicons.dev/icons?i=spring,docker,kubernetes,git,gcp,terraform&amp;theme=light" style="margin-top: 8px;margin-bottom: 8px;">
+
+#### Databases
+
+<img src="https://skillicons.dev/icons?i=mysql,postgres,sqlite,mongodb,hibernate,firebase&amp;theme=light" style="margin-top: 8px;margin-bottom: 8px;">
+
+#### Research and AI
+
+<img src="https://skillicons.dev/icons?i=r,scala,matlab,sklearn,pytorch,tensorflow&amp;theme=light" style="margin-top: 8px;margin-bottom: 8px;">
