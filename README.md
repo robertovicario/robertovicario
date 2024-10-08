@@ -7,7 +7,9 @@ Hello there! I spawned in this universe back in 2000 with a singular purpose: to
 
 ## 👨🏻‍💻 Experience
 
-- Freelance Software Engineer at [Nunchi](https://www.nunchicommunication.com)
+- Research Assistant at [DiSTA Department at University of Insubria
+](https://www.uninsubria.it/rubrica/dipartimento-di-scienze-teoriche-e-applicate)
+- Web Developer at [Nunchi](https://www.nunchicommunication.com)
 
 ## 👨🏻‍🎓 Education
 
