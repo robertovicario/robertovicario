@@ -24,7 +24,7 @@ Hello there! I spawned in this universe back in 2000 with a singular purpose: to
 
 #### Web Development
 
-<img src="https://skillicons.dev/icons?i=html,css,bootstrap,django,react,wordpress&amp;theme=light" style="margin-top: 8px;margin-bottom: 8px;">
+<img src="https://skillicons.dev/icons?i=html,css,bootstrap,django,flask,wordpress&amp;theme=light" style="margin-top: 8px;margin-bottom: 8px;">
 
 #### DevOps and Cloud Computing
 
