@@ -7,15 +7,15 @@ Hello there! I spawned in this universe back in 2000 with a singular purpose: to
 
 ## 👨🏻‍💻 Experience
 
-- Software Engineer at [Motus ml](https://www.motusml.com)
-- Research Assistant at [DiSTA Department at University of Insubria
+- `Software Engineer` at [Motus ml](https://www.motusml.com)
+- `Research Assistant` at [DiSTA Department at University of Insubria
 ](https://www.uninsubria.it/rubrica/dipartimento-di-scienze-teoriche-e-applicate)
-- Software Engineer at [Nunchi](https://www.nunchicommunication.com)
+- `Software Engineer` at [Nunchi](https://www.nunchicommunication.com)
 
 ## 👨🏻‍🎓 Education
 
-- MSc in Computer Science at [University of Insubria](https://www.uninsubria.it)
-- BSc in Computer Science at [University of Insubria](https://www.uninsubria.it)
+- `MSc` in `Computer Science` at [University of Insubria](https://www.uninsubria.it)
+- `BSc` in `Computer Science` at [University of Insubria](https://www.uninsubria.it)
 
 ## 🚀 Skills
 
