@@ -2,7 +2,7 @@
 
 Hello there! I spawned in this universe back in 2000 with a singular purpose: to contribute to the realm of scientific research as a Computer Scientist.
 
-| <a href="./docs/robertovicario_CV.pdf" download>Download CV</a> |
+| <a href="https://github.com/robertovicario/robertovicario/blob/main/docs/robertovicario_CV.pdf" download>Download CV</a> |
 | -- |
 
 ## 👨🏻‍💻 Experience
