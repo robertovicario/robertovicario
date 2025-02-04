@@ -2,14 +2,13 @@
 
 Hello there! I spawned in this universe back in 2000 with a singular purpose: to contribute to the realm of scientific research as a Computer Scientist.
 
-| <a href="https://github.com/robertovicario/robertovicario/blob/main/docs/robertovicario_CV.pdf" download>Download CV</a> |
+| <a href="https://github.com/robertovicario/robertovicario/blob/main/docs/RobertoVicario-CV.pdf" download>Download CV</a> |
 | -- |
 
 ## 👨🏻‍💻 Experience
 
 - `Software Engineer` at [Motus ml](https://www.motusml.com)
-- `Research Assistant Intern` at [DiSTA Department at University of Insubria
-](https://www.uninsubria.it/rubrica/dipartimento-di-scienze-teoriche-e-applicate)
+- `Research Assistant Intern` at [DiSTA Department at University of Insubria](https://www.uninsubria.it/rubrica/dipartimento-di-scienze-teoriche-e-applicate)
 
 ## 👨🏻‍🎓 Education
 
