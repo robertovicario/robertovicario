@@ -1,21 +1,19 @@
 # Roberto Vicario
 
-Hello there! I spawned in this universe back in 2000 with a singular purpose: to contribute to the realm of scientific research as a Computer Scientist.
-
-| <a href="https://github.com/robertovicario/robertovicario/blob/main/docs/RobertoVicario-CV.pdf" download>Download CV</a> |
-| -- |
-
-
 ## 👨🏻‍🎓 Education
 
-- `MSc` in `Computer Science` at [University of Insubria](https://www.uninsubria.it)
-- `BSc` in `Computer Science` at [University of Insubria](https://www.uninsubria.it)
+- **MSc in Computer Science** at <a href="https://www.uninsubria.it" target="_blank">University of Insubria</a> `  ongoing  `
+- **BSc in Computer Science** at <a href="https://www.uninsubria.it" target="_blank">University of Insubria</a> `  3 years  `
 
 ## 👨🏻‍💻 Experience
 
-- `Software Engineer` at [Motus ml](https://www.motusml.com)
-- `Research Assistant Intern` at [DiSTA Department at University of Insubria](https://www.uninsubria.it/rubrica/dipartimento-di-scienze-teoriche-e-applicate
+- **Software Engineer** at <a href="https://www.motusml.com" target="_blank">Motus ml</a> `  ongoing  `
+- **Research Assistant Intern** at <a href="https://www.uninsubria.it" target="_blank">DiSTA Department at University of Insubria</a> `  4 months  `
 
 ## 🚀 Skills
 
-<img src="https://skillicons.dev/icons?i=java,c,cpp,python,js,bash&amp;theme=light" style="margin-top: 8px;margin-bottom: 8px;">
+![](https://go-skill-icons.vercel.app/api/icons?i=java,cpp,python,r,javascript,php&perline=6&theme=light)
+![](https://go-skill-icons.vercel.app/api/icons?i=html,css,bootstrap,figma,spring,flask&perline=6&theme=light)
+
+![](https://go-skill-icons.vercel.app/api/icons?i=linux,bash,git,docker,kubernetes,aws&perline=6&theme=light)
+![](https://go-skill-icons.vercel.app/api/icons?i=numpy,pandas,seaborn,matplotlib,scikitlearn,tensorflow&perline=6&theme=light)
