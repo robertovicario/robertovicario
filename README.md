@@ -2,13 +2,13 @@
 
 ## 👨🏻‍🎓 Education
 
-- **MSc in Computer Science** at <a href="https://www.uninsubria.it" target="_blank">University of Insubria</a> `  ongoing  `
-- **BSc in Computer Science** at <a href="https://www.uninsubria.it" target="_blank">University of Insubria</a> `  3 years  `
+- **MSc in Computer Science** at <a href="https://www.uninsubria.it" target="_blank">University of Insubria</a> • `10/2024 – Present`
+- **BSc in Computer Science** at <a href="https://www.uninsubria.it" target="_blank">University of Insubria</a> • `10/2020 – 02/2024`
 
 ## 👨🏻‍💻 Experience
 
-- **Software Engineer** at <a href="https://www.motusml.com" target="_blank">Motus ml</a> `  ongoing  `
-- **Research Assistant Intern** at <a href="https://www.uninsubria.it" target="_blank">DiSTA Department at University of Insubria</a> `  4 months  `
+- **Software Engineer** at <a href="https://www.motusml.com" target="_blank">Motus ml</a> • `10/2024 – Present`
+- **Research Assistant Intern** at <a href="https://www.uninsubria.it" target="_blank">DiSTA Department at University of Insubria</a> • `10/2023 – 01/2024`
 
 ## 🚀 Skills
 
