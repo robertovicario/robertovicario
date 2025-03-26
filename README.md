@@ -20,7 +20,4 @@
 
 ## 📊 Stats
 
-![robertovicario's Stats](https://github-readme-stats.vercel.app/api?username=robertovicario&theme=dark&show_icons=true&hide_border=false&count_private=true)
-![robertovicario's Streak](https://github-readme-streak-stats.herokuapp.com/?user=robertovicario&theme=dark&hide_border=false)
-
-![robertovicario's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=robertovicario&theme=dark&show_icons=true&hide_border=false&layout=compact)
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=robertovicario&theme=highcontrast&hide_border=true&border_radius=20&card_width=500&card_height=250" alt="GitHub Streak" /></a>
