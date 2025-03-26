@@ -1,9 +1,5 @@
 # Roberto Vicario
 
-![robertovicario's Stats](https://github-readme-stats.vercel.app/api?username=robertovicario&theme=highcontrast&show_icons=true&hide_border=false&count_private=true)
-![robertovicario's Streak](https://github-readme-streak-stats.herokuapp.com/?user=robertovicario&theme=highcontrast&hide_border=false)
-![robertovicario's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=robertovicario&theme=highcontrast&show_icons=true&hide_border=false&layout=compact)
-
 ## 👨🏻‍🎓 Education
 
 - **MSc in Computer Science** at <a href="https://www.uninsubria.it" target="_blank">University of Insubria</a> • `10/2024 – Present`
@@ -21,3 +17,10 @@
 
 ![](https://go-skill-icons.vercel.app/api/icons?i=linux,bash,git,docker,kubernetes,aws&perline=6&theme=light)
 ![](https://go-skill-icons.vercel.app/api/icons?i=numpy,pandas,seaborn,matplotlib,scikitlearn,tensorflow&perline=6&theme=light)
+
+## 📊 Stats
+
+![robertovicario's Stats](https://github-readme-stats.vercel.app/api?username=robertovicario&theme=dark&show_icons=true&hide_border=false&count_private=true)
+![robertovicario's Streak](https://github-readme-streak-stats.herokuapp.com/?user=robertovicario&theme=dark&hide_border=false)
+
+![robertovicario's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=robertovicario&theme=dark&show_icons=true&hide_border=false&layout=compact)
