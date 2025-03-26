@@ -12,11 +12,14 @@
 
 ## 🚀 Skills
 
-![](https://go-skill-icons.vercel.app/api/icons?i=java,cpp,python,r,javascript,php&perline=6&theme=light)
-![](https://go-skill-icons.vercel.app/api/icons?i=html,css,bootstrap,figma,spring,flask&perline=6&theme=light)
-
-![](https://go-skill-icons.vercel.app/api/icons?i=linux,bash,git,docker,kubernetes,aws&perline=6&theme=light)
-![](https://go-skill-icons.vercel.app/api/icons?i=numpy,pandas,seaborn,matplotlib,scikitlearn,tensorflow&perline=6&theme=light)
+<div>
+	<img src="https://go-skill-icons.vercel.app/api/icons?i=java,cpp,python,r,javascript,php&perline=6&theme=light" alt="Languages">
+	<img src="https://go-skill-icons.vercel.app/api/icons?i=html,css,bootstrap,figma,spring,flask&perline=6&theme=light" alt="Frameworks">
+</div>
+<div>
+	<img src="https://go-skill-icons.vercel.app/api/icons?i=linux,bash,git,docker,kubernetes,aws&perline=6&theme=light" alt="Other">
+	<img src="https://go-skill-icons.vercel.app/api/icons?i=numpy,pandas,seaborn,matplotlib,scikitlearn,tensorflow&perline=6&theme=light" alt="Data Science">
+</div>
 
 ## 📊 Stats
 
