@@ -8,7 +8,7 @@
 ## 👨🏻‍💻 Experience
 
 - **Software Engineer** at <a href="https://www.motusml.com">Motus ml</a> • `10/2024 – Present`
-- **Research Assistant Intern** at <a href="https://www.uninsubria.it">DiSTA Department at University of Insubria</a> • `10/2023 – 01/2024`
+- **Research Assistant Intern** at <a href="https://www.uninsubria.it">University of Insubria</a> • `10/2023 – 01/2024`
 
 ## 🚀 Skills
 
@@ -23,7 +23,7 @@
 
 ## 🏅 Awards
 
-- <a href="https://www.cyberchallenge.it/">CyberChallenge.IT:</a> Selective admission (840 spots nationwide) to the training program for U24 Ethical Hackers, organized by the <a href="https://www.cybersecnatlab.it/">Cybersecurity National Lab</a> • `02/2025`
+- **<a href="https://www.cyberchallenge.it">CyberChallenge.IT</a>:** Admitted to Italian training program for U24 Ethical Hackers (840 spots nationwide), organized by the <a href="https://www.cybersecnatlab.it">Cybersecurity National Lab</a> • `02/2025`
 
 ## 📊 Stats
 
