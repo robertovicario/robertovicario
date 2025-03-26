@@ -2,13 +2,13 @@
 
 ## 👨🏻‍🎓 Education
 
-- **MSc in Computer Science** at <a href="https://www.uninsubria.it" target="_blank">University of Insubria</a> • `10/2024 – Present`
-- **BSc in Computer Science** at <a href="https://www.uninsubria.it" target="_blank">University of Insubria</a> • `10/2020 – 02/2024`
+- **MSc in Computer Science** at <a href="https://www.uninsubria.it">University of Insubria</a> • `10/2024 – Present`
+- **BSc in Computer Science** at <a href="https://www.uninsubria.it">University of Insubria</a> • `10/2020 – 02/2024`
 
 ## 👨🏻‍💻 Experience
 
-- **Software Engineer** at <a href="https://www.motusml.com" target="_blank">Motus ml</a> • `10/2024 – Present`
-- **Research Assistant Intern** at <a href="https://www.uninsubria.it" target="_blank">DiSTA Department at University of Insubria</a> • `10/2023 – 01/2024`
+- **Software Engineer** at <a href="https://www.motusml.com">Motus ml</a> • `10/2024 – Present`
+- **Research Assistant Intern** at <a href="https://www.uninsubria.it">DiSTA Department at University of Insubria</a> • `10/2023 – 01/2024`
 
 ## 🚀 Skills
 
@@ -20,6 +20,10 @@
 	<img src="https://go-skill-icons.vercel.app/api/icons?i=linux,bash,git,docker,kubernetes,aws&perline=6&theme=light" alt="Other">
 	<img src="https://go-skill-icons.vercel.app/api/icons?i=numpy,pandas,seaborn,matplotlib,scikitlearn,tensorflow&perline=6&theme=light" alt="Data Science">
 </div>
+
+## 🏅 Awards
+
+- <a href="https://www.cyberchallenge.it/">CyberChallenge.IT:</a> Selective admission (840 spots nationwide) to the training program for U24 Ethical Hackers, organized by the <a href="https://www.cybersecnatlab.it/">Cybersecurity National Lab</a> • `02/2025`
 
 ## 📊 Stats
 
