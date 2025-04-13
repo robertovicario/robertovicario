@@ -13,7 +13,7 @@
 ## 🚀 Skills
 
 <div>
-	<img src="https://go-skill-icons.vercel.app/api/icons?i=java,cpp,python,r,javascript,php&perline=6&theme=light" alt="Languages">
+	<img src="https://go-skill-icons.vercel.app/api/icons?i=java,c,python,r,javascript,php&perline=6&theme=light" alt="Languages">
 	<img src="https://go-skill-icons.vercel.app/api/icons?i=html,css,bootstrap,figma,spring,flask&perline=6&theme=light" alt="Frameworks">
 </div>
 <div>
