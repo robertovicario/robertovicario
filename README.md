@@ -18,7 +18,7 @@
 </div>
 <div>
 	<img src="https://go-skill-icons.vercel.app/api/icons?i=linux,bash,git,docker,kubernetes,aws&perline=6&theme=light" alt="Other">
-	<img src="https://go-skill-icons.vercel.app/api/icons?i=numpy,pandas,seaborn,matplotlib,scikitlearn,tensorflow&perline=6&theme=light" alt="Data Science">
+	<img src="https://go-skill-icons.vercel.app/api/icons?i=numpy,pandas,seaborn,matplotlib,sklearn,tensorflow&perline=6&theme=light" alt="Data Science">
 </div>
 
 ## 🏅 Awards
