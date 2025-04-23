@@ -46,7 +46,7 @@ If you use a different browser, please refer to its official support documentati
 
 ---
 
-**Last Updated:** 23/04/2025
+**Last Updated:** 23-04-2025
 
 ---
 
