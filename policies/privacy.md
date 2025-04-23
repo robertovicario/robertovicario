@@ -1,14 +1,13 @@
 # Privacy Policy
 
-**Last Updated On:** 23-Apr-2025  
-**Effective Date:** 23-Apr-2025  
+**Last Updated On:** 23/04/2025
 
 ---
 
-This Privacy Policy describes the policies of **Roberto Vicario**, located in Como, 22100 Como, Italy.  
-**Email:** [robertovicario.com@gmail.com](mailto:robertovicario.com@gmail.com)  
+This Privacy Policy describes the policies of **Roberto Vicario**, located in Como, 22100 Como, Italy.
+**Email:** [robertovicario.com@gmail.com](mailto:robertovicario.com@gmail.com)
 
-This policy applies to the collection, use, and disclosure of your information when you use our website [https://www.robertovicario.com](https://www.robertovicario.com) (the “Service”). By accessing or using the Service, you agree to the terms of this Privacy Policy. If you do not agree, please do not use the Service.
+This policy applies to the collection, use, and disclosure of your information when you use our website [https://www.robertovicario.com](https://www.robertovicario.com) (the "Service"). By accessing or using the Service, you agree to the terms of this Privacy Policy. If you do not agree, please do not use the Service.
 
 We reserve the right to update this Privacy Policy at any time without prior notice. Changes will take effect **180 days** after being posted on the Service. Continued use of the Service after this period signifies your acceptance of the revised policy. We recommend reviewing this page regularly.
 
@@ -18,8 +17,8 @@ We reserve the right to update this Privacy Policy at any time without prior not
 
 We may collect and process the following personal information:
 
-- **Name**  
-- **Email**  
+- **Name**
+- **Email**
 - **Working Company**
 
 ---
@@ -40,10 +39,10 @@ We will retain your information for **90 days to 2 years** after user accounts b
 
 We may retain some data for longer for reasons such as:
 
-- Legal compliance  
-- Record-keeping  
-- Fraud prevention  
-- Enforcement of legal rights  
+- Legal compliance
+- Record-keeping
+- Fraud prevention
+- Enforcement of legal rights
 
 Anonymous or aggregated data that doesn't identify you may be stored indefinitely.
 
@@ -53,11 +52,11 @@ Anonymous or aggregated data that doesn't identify you may be stored indefinitel
 
 Depending on applicable laws, you may have the right to:
 
-- Access, rectify, or erase your personal data  
-- Receive a copy of your data  
-- Restrict or object to data processing  
-- Request data portability  
-- Withdraw previously given consent  
+- Access, rectify, or erase your personal data
+- Receive a copy of your data
+- Restrict or object to data processing
+- Request data portability
+- Withdraw previously given consent
 - File a complaint with a regulatory authority
 
 To exercise your rights, contact us at: [robertovicario.com@gmail.com](mailto:robertovicario.com@gmail.com)
@@ -68,7 +67,7 @@ Please note: If you deny or withdraw consent for necessary data processing, we m
 
 ## Cookies
 
-For more information on how we use cookies and tracking technologies, please refer to our [Cookie Policy](#).
+For more information on how we use cookies and tracking technologies, please refer to our [Cookie Policy](https://github.com/robertovicario/robertovicario/blob/main/policies/cookie.md).
 
 ---
 
@@ -88,7 +87,7 @@ Our Service may include links to third-party websites that we do not operate. We
 
 For any concerns or queries related to your data, contact:
 
-**Roberto Vicario**  
+**Roberto Vicario**
 **Email:** [robertovicario.com@gmail.com](mailto:robertovicario.com@gmail.com)
 
 We will address your concerns in accordance with applicable law.
