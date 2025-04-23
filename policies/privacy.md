@@ -94,7 +94,7 @@ We will address your concerns in accordance with applicable law.
 
 ---
 
-**Last Updated:** 23/04/2025
+**Last Updated:** 23-04-2025
 
 ---
 
