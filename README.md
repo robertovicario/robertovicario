@@ -27,4 +27,4 @@
 
 ## 📊 Stats
 
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=robertovicario&border_radius=20&card_width=500&card_height=250" alt="GitHub Streak"/></a>
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=robertovicario&theme=highcontrast&border_radius=20&card_width=500&card_height=250" alt="GitHub Streak"/></a>
