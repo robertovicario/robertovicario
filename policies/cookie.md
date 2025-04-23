@@ -1,7 +1,5 @@
 # Cookie Policy
 
-**Last Updated:** 23-04-2025
-
 ---
 
 ## What are cookies?
@@ -45,6 +43,10 @@ Additionally, you can block or delete cookies through your browser settings. Her
 - [Internet Explorer](https://support.microsoft.com/en-us/topic/how-to-delete-cookie-files-in-internet-explorer-bca9446f-d873-78de-77ba-d42645fa52fc)
 
 If you use a different browser, please refer to its official support documentation.
+
+---
+
+**Last Updated:** 23/04/2025
 
 ---
 
