@@ -1,8 +1,8 @@
 # Privacy Policy
 
-**Last Updated On:** 23/04/2025
-
 ---
+
+## Introduction
 
 This Privacy Policy describes the policies of **Roberto Vicario**, located in Como, 22100 Como, Italy.
 **Email:** [robertovicario.com@gmail.com](mailto:robertovicario.com@gmail.com)
@@ -91,6 +91,10 @@ For any concerns or queries related to your data, contact:
 **Email:** [robertovicario.com@gmail.com](mailto:robertovicario.com@gmail.com)
 
 We will address your concerns in accordance with applicable law.
+
+---
+
+**Last Updated:** 23/04/2025
 
 ---
 
