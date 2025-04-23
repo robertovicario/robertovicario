@@ -1,6 +1,5 @@
 # Cookie Policy
 
-**Effective Date:** 23-04-2025
 **Last Updated:** 23-04-2025
 
 ---
