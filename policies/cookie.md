@@ -1,7 +1,7 @@
 # Cookie Policy
 
-**Effective Date:** 23-Apr-2025  
-**Last Updated:** 23-Apr-2025  
+**Effective Date:** 23-04-2025
+**Last Updated:** 23-04-2025
 
 ---
 
@@ -11,10 +11,10 @@ This Cookie Policy explains what cookies are and how we use them, the types of c
 
 Cookies are small text files that store small pieces of information. They are stored on your device when the website is loaded on your browser. These cookies help us:
 
-- Make the website function properly  
-- Enhance security  
-- Provide a better user experience  
-- Understand website performance  
+- Make the website function properly
+- Enhance security
+- Provide a better user experience
+- Understand website performance
 - Analyze areas that need improvement
 
 ---
@@ -25,19 +25,17 @@ Like most online services, our website uses **first-party** and **third-party** 
 
 - **First-party cookies** are essential for the website to function properly and do not collect personally identifiable data.
 - **Third-party cookies** help us:
-  - Understand website performance
-  - Analyze user interaction
-  - Maintain security
-  - Deliver relevant advertisements
-  - Enhance user experience
-  - Speed up future interactions with the site
+    - Understand website performance
+    - Analyze user interaction
+    - Maintain security
+    - Deliver relevant advertisements
+    - Enhance user experience
+    - Speed up future interactions with the site
 
 ---
 
 ## Types of Cookies We Use
 
-[Manage Cookie Preferences](#)  
-**Cookie Settings**  
 You can change your cookie preferences anytime by clicking the button above. This will let you revisit the cookie consent banner to update or withdraw your consent.
 
 Additionally, you can block or delete cookies through your browser settings. Here are links to manage cookies on major browsers:
