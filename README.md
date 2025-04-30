@@ -8,7 +8,7 @@
 ## 👨🏻‍💻 Experience
 
 - **Software Engineer** at <a href="https://www.motusml.com">Motus ml</a> • `10/2024 – Present`
-- **Data Scientist Intern** at <a href="https://www.uninsubria.it">University of Insubria</a> • `10/2023 – 01/2024`
+- **Data Scientist Intern** at <a href="https://www.uninsubria.it">University of Insubria, DiSTA Department</a> • `10/2023 – 01/2024`
 
 ## 🚀 Skills
 
