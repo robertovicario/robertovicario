@@ -54,6 +54,4 @@ case $1 in
     *)
         echo "Usage: $0 {setup|policies}"
         ;;
-esac
-
-scimmia
+esac 
