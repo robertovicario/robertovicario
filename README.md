@@ -1,14 +1,14 @@
 # Roberto Vicario
 
-## 👨🏻‍🎓 Education
-
-- **MSc in Computer Science** at <a href="https://www.uninsubria.it">University of Insubria</a> • `10/2024 – Present`
-- **BSc in Computer Science** at <a href="https://www.uninsubria.it">University of Insubria</a> • `10/2020 – 02/2024`
-
 ## 👨🏻‍💻 Experience
 
 - **Software Engineer** at <a href="https://www.motusml.com">Motus ml</a> • `10/2024 – Present`
 - **Data Scientist Intern** at <a href="https://www.uninsubria.it">University of Insubria, DiSTA Department</a> • `10/2023 – 01/2024`
+
+## 👨🏻‍🎓 Education
+
+- **MSc in Computer Science** at <a href="https://www.uninsubria.it">University of Insubria</a> • `10/2024 – Ongoing`
+- **BSc in Computer Science** at <a href="https://www.uninsubria.it">University of Insubria</a> • `10/2020 – 02/2024`
 
 ## 🚀 Skills
 
