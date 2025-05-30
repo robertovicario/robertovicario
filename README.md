@@ -20,7 +20,3 @@
 	<img src="https://go-skill-icons.vercel.app/api/icons?i=linux,bash,git,docker,kubernetes,aws&perline=6&theme=light" alt="DevOps">
 	<img src="https://go-skill-icons.vercel.app/api/icons?i=numpy,pandas,seaborn,matplotlib,sklearn,tensorflow&perline=6&theme=light" alt="Data Science">
 </div>
-
-## 📊 Stats
-
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=robertovicario&theme=highcontrast&border_radius=20&card_width=500&card_height=250" alt="GitHub Streak"/></a>
