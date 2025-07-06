@@ -27,6 +27,7 @@ policies() {
             echo "Usage: $0 policies {privacy|cookie}"
             ;;
     esac
+    handler
 }
 
 printer() {
