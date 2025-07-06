@@ -7,7 +7,8 @@ setup() {
 }
 
 policies() {
-    printer "📚 Generating documentation"
+    printer "📚 Generating policies"
+    mkdir -p ./policies
     case $2 in
         privacy)
             pandoc ./policies/md/Privacy_Policy.md \
@@ -27,7 +28,6 @@ policies() {
             echo "Usage: $0 policies {privacy|cookie}"
             ;;
     esac
-    handler
 }
 
 printer() {
