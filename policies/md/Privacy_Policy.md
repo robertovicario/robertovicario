@@ -87,8 +87,7 @@ Our Service may include links to third-party websites that we do not operate. We
 
 For any concerns or queries related to your data, contact:
 
-**Roberto Vicario**
-**Email:** [robertovicario.com@gmail.com](mailto:robertovicario.com@gmail.com)
+- **Roberto Vicario:** [robertovicario.com@gmail.com](mailto:robertovicario.com@gmail.com)
 
 We will address your concerns in accordance with applicable law.
 
