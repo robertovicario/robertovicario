@@ -2,8 +2,7 @@
 
 ## 👨🏻‍💻 Experience
 
-- **Data Scientist** at <a href="https://www.motusml.com">Motus ml</a> • `10-2025 / Present`
-- **Software Engineer** at <a href="https://www.motusml.com">Motus ml</a> • `10-2024 / 09-2025`
+- **Data Scientist** at <a href="https://www.motusml.com">Motus ml</a> • `10-2024 / Present`
 - **Data Scientist** at <a href="https://www.uninsubria.it">University of Insubria, DiSTA Department</a> • `10-2023 / 01–2024`
 
 ## 👨🏻‍🎓 Education
@@ -14,10 +13,10 @@
 ## 🚀 Skills
 
 <div>
-	<img src="https://go-skill-icons.vercel.app/api/icons?i=java,c,py,r,js,php&perline=6&theme=light" alt="Languages">
-	<img src="https://go-skill-icons.vercel.app/api/icons?i=html,css,bootstrap,figma,spring,flask&perline=6&theme=light" alt="Frameworks">
+	<img src="https://go-skill-icons.vercel.app/api/icons?i=java,c,py,r,js,ts&perline=6&theme=light" alt="Languages">
+	<img src="https://go-skill-icons.vercel.app/api/icons?i=html,css,bootstrap,react,spring,flask&perline=6&theme=light" alt="Frameworks">
 </div>
 <div>
 	<img src="https://go-skill-icons.vercel.app/api/icons?i=linux,bash,git,docker,kubernetes,aws&perline=6&theme=light" alt="DevOps">
-	<img src="https://go-skill-icons.vercel.app/api/icons?i=numpy,pandas,seaborn,matplotlib,sklearn,tensorflow&perline=6&theme=light" alt="Data Science">
+	<img src="https://go-skill-icons.vercel.app/api/icons?i=pandas,matplotlib,sklearn,tensorflow,mlflow,opencv&perline=6&theme=light" alt="Data Science">
 </div>
