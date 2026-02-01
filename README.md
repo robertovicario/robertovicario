@@ -7,7 +7,7 @@
 
 ## 👨🏻‍🎓 Education
 
-- **MSc in Computer Science** at <a href="https://www.uninsubria.it">University of Insubria</a> • `10-2024 / 07-2026`
+- **MSc in Computer Science** at <a href="https://www.uninsubria.it">University of Insubria</a> • `10-2024 / 10-2026`
 - **BSc in Computer Science** at <a href="https://www.uninsubria.it">University of Insubria</a> • `10-2020 / 02-2024`
 
 ## 🚀 Skills
