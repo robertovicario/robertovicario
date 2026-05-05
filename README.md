@@ -2,13 +2,18 @@
 
 ## 👨🏻‍💻 Experience
 
-- **Machine Learning Engineer** at <a href="https://www.motusml.com">Motus ml</a> • `10-2024 / 03-2026`
-- **Data Scientist Intern** at <a href="https://www.uninsubria.it">University of Insubria, DiSTA Department</a> • `10-2023 / 02–2024`
+- **Machine Learning Engineer** at <a href="https://www.motusml.com">Motus ml</a> • `Oct 2024 / Mar 2026`
+- **Data Scientist Intern** at <a href="https://www.uninsubria.it">University of Insubria, DiSTA Department</a> • `Oct 2023 / Feb 2024`
 
 ## 👨🏻‍🎓 Education
 
-- **MSc in Computer Science** at <a href="https://www.uninsubria.it">University of Insubria</a> • `10-2024 / 10-2026`
-- **BSc in Computer Science** at <a href="https://www.uninsubria.it">University of Insubria</a> • `10-2020 / 02-2024`
+- **MSc in Computer Science** at <a href="https://www.uninsubria.it">University of Insubria</a> • `Oct 2024 / Oct 2026`
+- **BSc in Computer Science** at <a href="https://www.uninsubria.it">University of Insubria</a> • `Oct 2020 / Feb 2024`
+
+## 📓 Certifications and Licenses
+
+- **CyberChallenge.IT** – <a href="https://cybersecnatlab.it">Cybersecurity National Lab</a> • <a href="https://raw.githubusercontent.com/robertovicario/robertovicario/main/docs/certifications/CCIT25.pdf">CCIT25</a> • `Jun 2025`
+- **Cybersecurity Attack and Defense Fundamentals** – <a href="https://www.eccouncil.org">EC-Council</a> • <a href="https://raw.githubusercontent.com/robertovicario/robertovicario/main/docs/certifications/V7HDTZUQHYVC.pdf"> V7HDTZUQHYVC</a> • `Oct 2023`
 
 ## 🚀 Skills
 
