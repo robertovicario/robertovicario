@@ -2,13 +2,13 @@
 
 ## 👨🏻‍💻 Experience
 
-- **_Machine Learning Engineer_** at <a href="https://www.motusml.com">Motus ml</a> • `Oct 2024 / Mar 2026`
-- **_Data Scientist Intern_** at <a href="https://www.uninsubria.it">University of Insubria, DiSTA Department</a> • `Oct 2023 / Feb 2024`
+- **_Machine Learning Engineer_** at <a href="https://www.motusml.com">Motus ml</a> • `Oct 2024 – Mar 2026`
+- **_Data Scientist Intern_** at <a href="https://www.uninsubria.it">University of Insubria, DiSTA Department</a> • `Oct 2023 – Feb 2024`
 
 ## 👨🏻‍🎓 Education
 
-- **_MSc in Computer Science_** at <a href="https://www.uninsubria.it">University of Insubria</a> • `Oct 2024 / Oct 2026`
-- **_BSc in Computer Science_** at <a href="https://www.uninsubria.it">University of Insubria</a> • `Oct 2020 / Feb 2024`
+- **_MSc in Computer Science_** at <a href="https://www.uninsubria.it">University of Insubria</a> • `Oct 2024 – Oct 2026`
+- **_BSc in Computer Science_** at <a href="https://www.uninsubria.it">University of Insubria</a> • `Oct 2020 – Feb 2024`
 
 ## 💾 Certifications and Licenses
 
