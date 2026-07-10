@@ -17,8 +17,8 @@
 
 ## 📝 Research
 
-- Development of an Industrial AI-Based Software for Risk Estimation of PCBs in Space Manufacturing • M.Sc. Thesis in Computer Science at University of Insubria • `Oct 2026`
-- Apply Machine Learning for Stress Detection in Office Work Environments • B.Sc. Thesis in Computer Science at University of Insubria • <a href="https://raw.githubusercontent.com/robertovicario/BSc-Computer-Science-Thesis/main/Applicare_il_Machine_Learning_per_il_Rilevamento_dello_Stress_negli_Ambienti_di_Lavoro_di_Ufficio.pdf">PDF</a> • `Feb 2024`
+- **_Development of an Industrial AI-Based Software for Risk Estimation of PCBs in Space Manufacturing_** • M.Sc. Thesis in Computer Science at University of Insubria • `Oct 2026`
+- **_Apply Machine Learning for Stress Detection in Office Work Environments_** • B.Sc. Thesis in Computer Science at University of Insubria • <a href="https://raw.githubusercontent.com/robertovicario/BSc-Computer-Science-Thesis/main/Applicare_il_Machine_Learning_per_il_Rilevamento_dello_Stress_negli_Ambienti_di_Lavoro_di_Ufficio.pdf">PDF</a> • `Feb 2024`
 
 ## 🚀 Skills
 
