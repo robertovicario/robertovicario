@@ -27,6 +27,6 @@
 	<img src="https://go-skill-icons.vercel.app/api/icons?i=html,css,bootstrap,react,spring,fastapi&perline=6&theme=light" alt="Frameworks">
 </div>
 <div>
-	<img src="https://go-skill-icons.vercel.app/api/icons?i=git,gitlab,docker,kubernetes,nginx,terraform&perline=6&theme=light" alt="DevOps">
+	<img src="https://go-skill-icons.vercel.app/api/icons?i=git,gitlab,docker,kubernetes,nginx,gcp&perline=6&theme=light" alt="DevOps">
 	<img src="https://go-skill-icons.vercel.app/api/icons?i=pandas,sklearn,pytorch,tensorflow,opencv,mlflow&perline=6&theme=light" alt="Data Science">
 </div>
