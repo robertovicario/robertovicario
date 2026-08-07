@@ -24,7 +24,7 @@
 
 <div>
 	<img src="https://go-skill-icons.vercel.app/api/icons?i=java,py,c,r,js,ts&perline=6&theme=light" alt="Languages">
-	<img src="https://go-skill-icons.vercel.app/api/icons?i=spring,fastapi,react,mysql,mongodb,redis&perline=6&theme=light" alt="Frameworks & Databases">
+	<img src="https://go-skill-icons.vercel.app/api/icons?i=spring,fastapi,react,mysql,redis,mongodb&perline=6&theme=light" alt="Frameworks & Databases">
 </div>
 <div>
 	<img src="https://go-skill-icons.vercel.app/api/icons?i=pandas,sklearn,tensorflow,opencv,spark,mlflow&perline=6&theme=light" alt="Machine Learning">
