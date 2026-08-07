@@ -28,5 +28,6 @@
 </div>
 <div>
 	<img src="https://go-skill-icons.vercel.app/api/icons?i=git,docker,kubernetes,nginx,gcp,bigquery&perline=6&theme=light" alt="DevOps">
-	<img src="https://go-skill-icons.vercel.app/api/icons?i=pandas,sklearn,tensorflow,opencv,spark,mlflow&perline=6&theme=light" alt="Machine Learning">
+	<img src="https://go-skill-icons.vercel.app/api/icons?i=pandas,sklearn,tensorflow,opencv,mlflow,airflow&perline=6&theme=light" alt="Machine Learning">
+	
 </div>
