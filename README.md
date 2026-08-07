@@ -2,12 +2,12 @@
 
 ## 👨🏻‍💻 Experience
 
-- **_Machine Learning Engineer_** at <a href="https://www.motusml.com">Motus ml</a> • `Oct 2024 – Mar 2026`
+- **_AI Software Engineer_** at <a href="https://www.motusml.com">Motus ml</a> • `Oct 2024 – Mar 2026`
 - **_Data Scientist Intern_** at <a href="https://www.uninsubria.it">University of Insubria, DiSTA Department</a> • `Oct 2023 – Feb 2024`
 
 ## 👨🏻‍🎓 Education
 
-- **_M.Sc. in Computer Science_** at <a href="https://www.uninsubria.it">University of Insubria</a> • `Oct 2024 – Oct 2026`
+- **_M.Sc. in Computer Science_** at <a href="https://www.uninsubria.it">University of Insubria</a> • `Oct 2024 – Dec 2026`
 - **_B.Sc. in Computer Science_** at <a href="https://www.uninsubria.it">University of Insubria</a> • `Oct 2020 – Feb 2024`
 
 ## 💾 Certifications and Licenses
@@ -17,16 +17,16 @@
 
 ## 📝 Research
 
-- **_Development of an Industrial AI-Based Software for Risk Estimation of PCBs in Space Manufacturing_** • M.Sc. Thesis in Computer Science at University of Insubria • `Oct 2026`
+- **_Development of an Industrial AI-Based Software for Risk Estimation of PCBs in Space Manufacturing_** • M.Sc. Thesis in Computer Science at University of Insubria • `Dec 2026`
 - **_Apply Machine Learning for Stress Detection in Office Work Environments_** • B.Sc. Thesis in Computer Science at University of Insubria • <a href="https://raw.githubusercontent.com/robertovicario/BSc-Computer-Science-Thesis/main/Applicare_il_Machine_Learning_per_il_Rilevamento_dello_Stress_negli_Ambienti_di_Lavoro_di_Ufficio.pdf">PDF</a> • `Feb 2024`
 
 ## 🚀 Skills
 
 <div>
-	<img src="https://go-skill-icons.vercel.app/api/icons?i=java,c,py,r,js,ts&perline=6&theme=light" alt="Languages">
-	<img src="https://go-skill-icons.vercel.app/api/icons?i=html,css,bootstrap,react,spring,fastapi&perline=6&theme=light" alt="Frameworks">
+	<img src="https://go-skill-icons.vercel.app/api/icons?i=java,py,c,r,js,ts&perline=6&theme=light" alt="Languages">
+	<img src="https://go-skill-icons.vercel.app/api/icons?i=spring,fastapi,react,mysql,mongodb,redis&perline=6&theme=light" alt="Frameworks & Databases">
 </div>
 <div>
-	<img src="https://go-skill-icons.vercel.app/api/icons?i=git,gitlab,docker,kubernetes,nginx,gcp&perline=6&theme=light" alt="DevOps">
-	<img src="https://go-skill-icons.vercel.app/api/icons?i=pandas,sklearn,pytorch,tensorflow,opencv,mlflow&perline=6&theme=light" alt="Data Science">
+	<img src="https://go-skill-icons.vercel.app/api/icons?i=pandas,sklearn,tensorflow,opencv,spark,mlflow&perline=6&theme=light" alt="Machine Learning">
+	<img src="https://go-skill-icons.vercel.app/api/icons?i=git,docker,kubernetes,nginx,gcp,bigquery&perline=6&theme=light" alt="Cloud & DevOps">
 </div>
