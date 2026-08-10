@@ -23,7 +23,7 @@
 ## 🚀 Skills
 
 <div>
-	<img src="https://go-skill-icons.vercel.app/api/icons?i=java,py,c,r,js,ts&perline=6&theme=light" alt="Languages">
+	<img src="https://go-skill-icons.vercel.app/api/icons?i=java,py,cpp,r,js,ts&perline=6&theme=light" alt="Languages">
 	<img src="https://go-skill-icons.vercel.app/api/icons?i=spring,fastapi,react,mysql,redis,mongodb&perline=6&theme=light" alt="Backend">
 </div>
 <div>
