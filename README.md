@@ -2,7 +2,7 @@
 
 ## 👨🏻‍💻 Experience
 
-- **_AI Software Engineer_** at <a href="https://www.motusml.com">Motus ml</a> • `Oct 2024 – Mar 2026`
+- **_ML Engineer_** at <a href="https://www.motusml.com">Motus ml</a> • `Oct 2024 – Mar 2026`
 - **_Data Scientist Intern_** at <a href="https://www.uninsubria.it">University of Insubria, DiSTA Department</a> • `Oct 2023 – Feb 2024`
 
 ## 👨🏻‍🎓 Education
