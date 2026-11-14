@@ -2,22 +2,22 @@
 
 ## 👨🏻‍💻 Experience
 
-- **_AI Software Engineer_** at <a href="https://www.motusml.com">Motus ml</a> • `Oct 2024 – Mar 2026`
-- **_Data Scientist Intern_** at <a href="https://www.uninsubria.it">University of Insubria, DiSTA Department</a> • `Oct 2023 – Feb 2024`
+- ***AI Software Engineer*** at <a href="https://www.motusml.com">Motus ml</a> • `Oct 2024 -- Mar 2026`
+- ***Data Scientist Intern*** at <a href="https://www.uninsubria.it">University of Insubria, DiSTA Department</a> • `Oct 2023 -- Feb 2024`
 
 ## 👨🏻‍🎓 Education
 
-- **_M.Sc. in Computer Science_** at <a href="https://www.uninsubria.it">University of Insubria</a> • `Oct 2024 – Feb 2027`
-- **_B.Sc. in Computer Science_** at <a href="https://www.uninsubria.it">University of Insubria</a> • `Oct 2020 – Feb 2024`
+- ***M.Sc. in Computer Science*** at <a href="https://www.uninsubria.it">University of Insubria</a> • `Oct 2024 -- Feb 2027`
+- ***B.Sc. in Computer Science*** at <a href="https://www.uninsubria.it">University of Insubria</a> • `Oct 2020 -- Feb 2024`
 
 ## 💾 Programs
 
-- **_CyberChallenge.IT_** by <a href="https://cybersecnatlab.it">Cybersecurity National Lab</a> • <a href="https://raw.githubusercontent.com/robertovicario/robertovicario/main/docs/certifications/CCIT25.pdf">PDF</a> • `Jun 2025`
+- ***CyberChallenge.IT*** by <a href="https://cybersecnatlab.it">Cybersecurity National Lab</a> • <a href="https://raw.githubusercontent.com/robertovicario/robertovicario/main/docs/certifications/CCIT25.pdf">PDF</a> • `Jun 2025`
 
 ## 📝 Research
 
-- **_Development of an AI-Based Industrial System for Risk Estimation in PCB Manufacturing for Space Applications_** • M.Sc. Thesis in Computer Science at University of Insubria • `Feb 2027`
-- **_Apply Machine Learning for Stress Detection in Office Work Environments_** • B.Sc. Thesis in Computer Science at University of Insubria • <a href="https://raw.githubusercontent.com/robertovicario/BSc-Computer-Science-Thesis/main/Applicare_il_Machine_Learning_per_il_Rilevamento_dello_Stress_negli_Ambienti_di_Lavoro_di_Ufficio.pdf">PDF</a> • `Feb 2024`
+- ***Development of an AI-Based Industrial System for Risk Estimation in PCB Manufacturing for Space Applications*** • M.Sc. Thesis in Computer Science at University of Insubria • `Feb 2027`
+- ***Apply Machine Learning for Stress Detection in Office Work Environments*** • B.Sc. Thesis in Computer Science at University of Insubria • <a href="https://raw.githubusercontent.com/robertovicario/BSc-Computer-Science-Thesis/main/Applicare_il_Machine_Learning_per_il_Rilevamento_dello_Stress_negli_Ambienti_di_Lavoro_di_Ufficio.pdf">PDF</a> • `Feb 2024`
 
 ## 🚀 Skills
 
